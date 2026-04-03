@@ -482,7 +482,7 @@
       </div>
       <div class="hero-meta-item">
         <span class="label">Data</span>
-        <span class="value">Abril / 2026</span>
+        <span class="value">03 de Abril / 2026 Validade 7 dias corridos</span>
       </div>
     </div>
   </div>
