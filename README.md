@@ -637,14 +637,14 @@
         </div>
         <div class="agent-body">
           <ul class="feature-list">
-            <li>Coleta automática de dados: CNPJ, faturamento estimado, porte, sócios, filiais e setor de atuação</li>
-            <li>Análise de maturidade do prospect para locação de plataformas aéreas (histórico de obras, projetos ativos)</li>
-            <li>Mapeamento de decisores: cargo, LinkedIn, e-mail e telefone de contato validados</li>
-            <li>Detecção de oportunidades de cross-sell entre filiais da AuraBrasil</li>
-            <li>Score de prioridade por potencial de fechamento e tamanho do contrato</li>
-            <li>Resumo executivo de 1 página com insights para a reunião de vendas</li>
-            <li>Alerta de riscos: clientes com processos legais, negativação ou instabilidade financeira</li>
-            <li>Integração com CRM e WhatsApp via N8N para entrega automática ao consultor</li>
+            <li>Coleta automática de dados: CNPJ, faturamento estimado, porte, sócios, filiais e setor de atuação.</li>
+            <li>Análise de maturidade do prospect para locação de plataformas aéreas (histórico de obras, projetos ativos).</li>
+            <li>Mapeamento de decisores: cargo, LinkedIn, e-mail e telefone de contato validados.</li>
+            <li>Detecção de oportunidades de cross-sell entre filiais da AuraBrasil.</li>
+            <li>Score de prioridade por potencial de fechamento e tamanho do contrato.</li>
+            <li>Resumo executivo de 1 página com insights para a reunião de vendas.</li>
+            <li>Alerta de riscos: clientes com processos legais, negativação ou instabilidade financeira.</li>
+            <li>Integração com CRM e WhatsApp via N8N para entrega automática ao consultor.</li>
           </ul>
         </div>
       </div>
@@ -659,14 +659,14 @@
         </div>
         <div class="agent-body">
           <ul class="feature-list">
-            <li>Geração automática de contratos de locação personalizados por cliente, equipamento e prazo</li>
-            <li>Preenchimento inteligente de fichas cadastrais a partir do CNPJ do cliente</li>
-            <li>Criação de laudos técnicos de equipamentos com base em modelos JLG e catálogo da frota</li>
-            <li>Emissão de documentos de treinamento IPAF e NR35 com dados do operador e validade</li>
-            <li>Relatórios de manutenção e inspeção preenchidos via checklist digital pelo técnico</li>
-            <li>Alterações em documentos existentes com controle de versão e auditoria</li>
-            <li>Templates inteligentes que se adaptam ao segmento (construção, industrial, mineração)</li>
-            <li>Exportação em PDF, Word e integração direta com o sistema de gestão da empresa</li>
+            <li>Geração automática de contratos de locação personalizados por cliente, equipamento e prazo.</li>
+            <li>Preenchimento inteligente de fichas cadastrais a partir do CNPJ do cliente.</li>
+            <li>Criação de laudos técnicos de equipamentos com base em modelos JLG e catálogo da frota.</li>
+            <li>Emissão de documentos de treinamento IPAF e NR35 com dados do operador e validade.</li>
+            <li>Relatórios de manutenção e inspeção preenchidos via checklist digital pelo técnico.</li>
+            <li>Alterações em documentos existentes com controle de versão e auditoria.</li>
+            <li>Templates inteligentes que se adaptam ao segmento (construção, industrial, mineração).</li>
+            <li>Exportação em PDF, Word e integração direta com o sistema de gestão da empresa.</li>
           </ul>
         </div>
       </div>
