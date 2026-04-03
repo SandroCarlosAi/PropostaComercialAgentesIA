@@ -257,10 +257,23 @@
     border-bottom:1px solid var(--border2);
   }
 
-  .roi-cols { display:grid; grid-template-columns:1fr 1fr 1fr; gap:0; }
-  @media(max-width:700px){ .roi-cols{grid-template-columns:1fr;} }
+  .roi-cols { 
+  display:grid; 
+  grid-template-columns:repeat(3, minmax(0,1fr));
+  gap:24px;
+  width:100%;
+}
+  @media(max-width:1100px){ 
+  .roi-cols{
+    grid-template-columns:1fr;
+  }
+}
 
-  .roi-col { padding:28px 32px; border-right:1px solid var(--border2); }
+  .roi-col { 
+  padding:32px 40px; 
+  border-right:1px solid var(--border2); 
+  min-width:0;
+}
   .roi-col:last-child { border-right:0; }
 
   .roi-col-label {
@@ -272,12 +285,31 @@
   .roi-col.green .roi-col-label { color:#22c55e; }
 
   .roi-item {
-    display:flex; justify-content:space-between; align-items:flex-start;
-    padding:10px 0; border-bottom:1px solid var(--border2); gap:12px;
-  }
-  .roi-item:last-child { border-bottom:0; }
-  .roi-item .name { font-size:12px; color:var(--text-muted); flex:1; }
-  .roi-item .val { font-size:13px; font-weight:700; font-family:'Syne', sans-serif; text-align:right; flex-shrink:0; }
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-start;
+  padding:12px 0;
+  border-bottom:1px solid var(--border2);
+  gap:16px;
+}
+
+.roi-item:last-child {
+  border-bottom:0;
+}
+
+.roi-item .name {
+  font-size:12px;
+  color:var(--text-muted);
+  flex:1;
+}
+
+.roi-item .val {
+  font-size:13px;
+  font-weight:700;
+  font-family:'Syne', sans-serif;
+  text-align:right;
+  white-space:nowrap;
+}
   .roi-col.red .roi-item .val { color:#ef4444; }
   .roi-col.yellow .roi-item .val { color:var(--gold); }
   .roi-col.green .roi-item .val { color:#22c55e; }
@@ -681,7 +713,7 @@
   <div class="page">
     <div class="section-header">
       <p class="section-tag">Retorno sobre o Investimento</p>
-      <h2>Quanto a AuraBrasil ganha<br>com os Agentes de IA</h2>
+      <h2>Quanto a AuraBrasil lucra<br>com os Agentes de IA</h2>
       <p>Projeção baseada na estrutura operacional da empresa: 12 filiais, equipe comercial distribuída, 2.500+ clientes B2B e operação documental intensa.</p>
     </div>
 
