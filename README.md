@@ -482,7 +482,7 @@
       </div>
       <div class="hero-meta-item">
         <span class="label">Data</span>
-        <span class="value">03 de Abril / 2026 Validade 7 dias corridos</span>
+        <span class="value">03 de Abril / 2026 - Validade 7 dias corridos</span>
       </div>
     </div>
   </div>
@@ -558,7 +558,7 @@
   <div class="page">
     <div class="section-header">
       <p class="section-tag">Diagnóstico Operacional</p>
-      <h2>O que a AuraBrasil perde<br>sem Agentes de IA hoje</h2>
+      <h2>O que a AuraBrasil perde<br>sem Agentes de IA hoje?</h2>
       <p>Análise dos principais gargalos identificados no modelo operacional do setor de locação de plataformas com atuação nacional e equipe distribuída.</p>
     </div>
 
